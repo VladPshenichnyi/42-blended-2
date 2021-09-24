@@ -37,6 +37,7 @@ body {
   margin-left: auto;
 }
 /* HEADER */
+/* Временый фон */
 .header {
   background-color: var(--main-text-color);
 }
